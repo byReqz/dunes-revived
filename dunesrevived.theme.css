@@ -6,6 +6,10 @@
 
 /* stuff added for maintenance */
 
+.scrollableContainer-2NUZem {
+  background-color: hsla(0, 0%, 100%, 0.05);
+}
+
 .theme-dark .embedTitleLink-1Zla9e,
 .theme-dark .markup-2BOw-j a,
 .wrapper-O5i5-0 .instantInviteModal-3vhcvC .clipboardInputInner-RLx2hK input,
@@ -18,12 +22,13 @@ a {
 }
 
 .theme-dark .messagesPopout-24nkyi {
-  background-color: rgba(0,0,0,0.4);
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
-.theme-dark .bodyInner-245q0L, .theme-dark .footer-1fjuF6 {
-  background-color: rgba(0,0,0,0.4);
-  color: hsla(0,0%,100%,0.8);
+.theme-dark .bodyInner-245q0L,
+.theme-dark .footer-1fjuF6 {
+  background-color: rgba(0, 0, 0, 0.4);
+  color: hsla(0, 0%, 100%, 0.8);
 }
 
 
