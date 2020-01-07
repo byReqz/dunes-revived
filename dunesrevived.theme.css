@@ -5,6 +5,13 @@
 
 
 /* stuff added for maintenance */
+.applicationStore-1pNvnv {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-track {
+  border: none;
+}
 
 .scrollableContainer-2NUZem {
   background-color: hsla(0, 0%, 100%, 0.05);
@@ -14,7 +21,7 @@
 .theme-dark .markup-2BOw-j a,
 .wrapper-O5i5-0 .instantInviteModal-3vhcvC .clipboardInputInner-RLx2hK input,
 a {
-  color: var(--links) !important
+  color: var(--links)
 }
 
 .messagesPopout-24nkyi {
@@ -426,7 +433,6 @@ a {
 
 ::-webkit-scrollbar-track {
   background: 0 0;
-  border: none !important
 }
 
 ::-webkit-scrollbar-track-piece {
