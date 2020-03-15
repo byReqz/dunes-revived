@@ -1,7 +1,7 @@
 //META{"name":"endless Dunes","description":"Minimalist, rounded and smooth, backed up after original got discontinued","author":"Spectra#7698 and nils#9800","version":"5.0.4","source":"http://byreqz.de/stuff/dunes/dunesrevived.theme.css","website":"https://codedotspectra.github.io/"}*//{}
 @import url('https://bdsources.github.io/sourcecheck/code.css');
 
-@import url('https://byreqz.de/stuff/dunes/settingsIcons.css');
+@import url('https://raw.githubusercontent.com/byReqz/dunes-revived/master/settingsIcons.css');
 
 
 /* stuff added for maintenance */
@@ -67,7 +67,7 @@ a {
 /* base theme */
 
 :root {
-  --background: url(https://byreqz.de/stuff/dunes/bg.jpg);
+  --background: url(https://raw.githubusercontent.com/byReqz/dunes-revived/master/bg.jpg);
   --mainColor: #2e3e6b;
   --mainDarker: #202b4a;
   --links: #5f4f7d;
@@ -741,7 +741,7 @@ a {
 }
 
 :root {
-  --bgImage: url("https://byreqz.de/stuff/dunes/bg.jpg");
+  --bgImage: url("https://raw.githubusercontent.com/byReqz/dunes-revived/master/bg.jpg");
   --mainColor: #2e3e6b;
   --mainDarker: #202b4a;
   --links: #5f4f7d;
