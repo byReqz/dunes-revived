@@ -4,7 +4,18 @@
 @import url('https://raw.githubusercontent.com/byReqz/dunes-revived/master/settingsIcons.css');
 
 
-/* stuff added for maintenance */
+/* stuff added/fixed by me */
+
+
+@font-face {
+	font-family: "Roboto Condensed";
+	src: url(https://github.com/byReqz/dunes-revived/blob/master/roboto-condensed.ttf);
+	font-weight: regular;
+}
+
+body {
+	font-family: "Roboto Condensed"
+}
 
 .theme-dark .container-1D34oG {
   background: transparent;
@@ -64,7 +75,7 @@ a {
   display: none
 }
 
-/* base theme */
+/* original theme theme */
 
 :root {
   --background: url(https://raw.githubusercontent.com/byReqz/dunes-revived/master/bg.jpg);
@@ -75,6 +86,7 @@ a {
   --background-secondary: #;
   --background-tertiary: #;
   --deprecated-panel-background: #;
+  --font-family: "Roboto Condensed"
 }
 
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked,
