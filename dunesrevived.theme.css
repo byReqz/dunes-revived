@@ -8,13 +8,13 @@
 
 
 @font-face {
-	font-family: "Roboto Condensed";
-	src: url(https://github.com/byReqz/dunes-revived/blob/master/roboto-condensed.ttf);
+	font-family: "SF Pro Display";
+	src: url(https://github.com/byReqz/dunes-revived/blob/master/SFProDisplay-Regular.ttf);
 	font-weight: regular;
 }
 
 body {
-	font-family: "Roboto Condensed"
+	font-family: "SF Pro Display"
 }
 
 .theme-dark .container-1D34oG {
