@@ -6,10 +6,30 @@
 
 /* stuff added/fixed by me */
 
+.membersWrap-2h-GB4 {
+    font-family: "SF Pro Display";
+    font-weight: regular;
+}
+
+.activityText-yGKsKm {
+    font-family: "SF Pro Text";
+    font-weight: regular;
+}
+
+.bodyInnerWrapper-Z8WDxe {
+    font-family: "SF Pro Text";
+    font-weight: regular;
+}
 
 @font-face {
 	font-family: "SF Pro Display";
 	src: url(https://github.com/byReqz/dunes-revived/blob/master/SFProDisplay-Regular.ttf);
+	font-weight: regular;
+}
+
+@font-face {
+	font-family: "SF Pro Text";
+	src: url(https://github.com/byReqz/dunes-revived/blob/master/SFProText-Regular.ttf);
 	font-weight: regular;
 }
 
